@@ -1,0 +1,5 @@
+membersihkan jendela di suatu gedung
+
+- cari tahu jendelanya ada berapa dan masing masing luasnya berapa
+- cari tahu kecepatan pengerjaan, misal 1/2 hari untuk jendela kecil, 1 hari untuk jendela besar atau 3 m2 per hari
+- bagi jumlah jendela dengan kecepatan kita membersihkannya
